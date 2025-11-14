@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Huyen Nguyen
 
-🎓 **Columbia University student** passionate about data storytelling, analytics, and machine learning.  
+🎓 **Colorado University at Boulder student** passionate about data storytelling, analytics, and machine learning.  
 💡 I love transforming data into meaningful insights through visualization and predictive modeling.  
 🌏 Based in Houston, TX | Originally from Vietnam  
 
@@ -33,3 +33,4 @@
 ---
 
 ⭐ *“Turning data into stories people understand.”*
+
